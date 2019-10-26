@@ -1,7 +1,8 @@
-package com.example.coffe.fragmentcoba
+package com.example.coffe.fragmentcoba.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.coffe.fragmentcoba.R
 import com.example.coffe.fragmentcoba.adapter.MyPagerAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
